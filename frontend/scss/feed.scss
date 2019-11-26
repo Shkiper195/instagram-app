@@ -1,0 +1,12 @@
+.feed {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1140px;
+    margin: auto;
+    margin-top: 70px;
+    flex-wrap: wrap-reverse;
+
+    @media (max-width: 910px) {
+        margin-top: 10px;
+    }
+}

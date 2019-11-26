@@ -1,0 +1,37 @@
+.palette {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: center;
+
+    .palette__img {
+        width: 350px;
+        max-width: 350px;
+        margin: 10px;
+        height: 250px;
+        max-height: 250px;
+        object-fit: cover;
+
+        @media (max-width: 730px) {
+            max-width: 450px;
+            max-height: 350px;
+            margin: auto;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 500px) {
+            max-width: 370px;
+            max-height: 270px;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 400px) {
+            max-width: 300px;
+            max-height: 200px;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+    }
+}

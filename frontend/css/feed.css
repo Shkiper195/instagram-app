@@ -1,0 +1,14 @@
+.feed {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  max-width: 1140px;
+  margin: auto;
+  margin-top: 70px;
+  -ms-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse; }
+  @media (max-width: 910px) {
+    .feed {
+      margin-top: 10px; } }

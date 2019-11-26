@@ -1,0 +1,90 @@
+{
+    "posts": [
+        {
+            "name": "dwayne_johnson",
+            "altname": "Dwayne",
+            "photo": "https://videos.usatoday.net/Brightcove2/29906170001/2013/03/29906170001_2263931874001_thumb-05b13779a28c870a2d0f6a7067001cb0.jpg?pubId=29906170001",
+            "src": "https://statics.sportskeeda.com/wp-content/uploads/2015/03/650-2-1426102178-2344632.jpg",
+            "alt": "Sport",
+            "descr": "While the enemies are sleeping, I train!",
+            "id": "1"
+        },
+        {
+            "name": "hugh_jackman",
+            "altname": "Wolwerine",
+            "photo": "https://dasg7xwmldix6.cloudfront.net/episodes/314149_OPppzeGK.jpg",
+            "src": "https://www.afisha.uz/ui/movies/4/1663_0188190_b.jpg",
+            "alt": "Wolwerine",
+            "descr": "When I was in perfect physical shape)))",
+            "id": "2"
+        },
+        {
+            "name": "konor_makgregor",
+            "altname": "Konor",
+            "photo": "https://sigma-z.ru/wp-content/uploads/31981/konor-makgregor-obyavlyaet-ob-uhode-iz-mma.png",
+            "src": "https://gmsrp.cachefly.net/images/19/02/04/74695a3f65959dff7d4dbd6c635b4f07/650.jpg",
+            "alt": "Notorius",
+            "descr": "And these two belts will forever be on my shoulders.",
+            "id": "3"
+        },
+        {
+            "name": "jess_barden",
+            "altname": "Jessica",
+            "photo": "https://i.pinimg.com/236x/7c/8a/21/7c8a21209a2bb3ba22ac34fe6c6e5604.jpg",
+            "src": "http://lol54.ru/uploads/posts/2012-08/thumbs/1345962620_lol54.ru_050.jpg",
+            "alt": "Director",
+            "descr": "Our Directors during filming...",
+            "id": "4"
+        },
+        {
+            "name": "will_smith",
+            "altname": "Will",
+            "photo": "https://www.biliyo.org/uploads/images/will-smith-kimdir-180_140.jpg",
+            "src": "http://www.newstm.ro/wp-content/uploads/2013/10/will.jpg",
+            "alt": "Star",
+            "descr": "My son",
+            "id": "5"
+        },
+        {
+            "name": "phill_kirko",
+            "altname": "Phill",
+            "photo": "https://media.ticketland.ru/images/420x270/person/1943659/2.jpg",
+            "src": "https://www.vietnambooking.com/wp-content/uploads/2017/01/du-lich-con-dao-20-9-2017.jpeg",
+            "alt": "King",
+            "descr": "Цвет настроения синий)))",
+            "id": "6"
+        }
+    ],
+    "my_posts": [
+        {
+            "src": "https://im0-tub-ru.yandex.net/i?id=a89ea5a6de494cb675e9b92adf35a24a&n=13",
+            "alt": "Me",
+            "id": "1"
+        },
+        {
+            "src": "https://www.savingadvice.com/wp-content/uploads/2016/10/Hugh-Jackmans-Net-Worth-2.jpg",
+            "alt": "Travel",
+            "id": "2"
+        },
+        {
+            "src": "https://i.ytimg.com/vi/OnOsE03XS9k/maxresdefault.jpg",
+            "alt": "Wolwerine",
+            "id": "3"
+        },
+        {
+            "src": "https://i.dailymail.co.uk/i/pix/2012/09/29/article-0-15425AC7000005DC-644_634x320.jpg",
+            "alt": "Swim",
+            "id": "4"
+        },
+        {
+            "src": "https://media.beritagar.id/2016-10/1000x751_a6dccf00b767e8eb80415ff7f6dbe231d2afaee9.jpg",
+            "alt": "Me",
+            "id": "5"
+        },
+        {
+            "src": "https://pbs.twimg.com/media/CEdFmw4XIAAf9S5.jpg",
+            "alt": "Wolwerine",
+            "id": "6"
+        }
+    ]
+}

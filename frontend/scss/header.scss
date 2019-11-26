@@ -1,0 +1,52 @@
+header {
+    height: 90px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.1);
+
+    .h-flex {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+        max-width: 1140px;
+        margin: auto;
+    }
+
+    .logo {
+        
+        img {
+            width: 60px;
+            -webkit-filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.25));
+            filter: drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.25));
+        }
+
+        @media (max-width: 1200px) {
+            margin-left: 15px;
+        }
+    }
+
+    .links {
+
+        ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        li {
+            margin: 0 20px;
+        }
+        
+        .menu__links {
+            font-size: 18px;
+            color: #000000;
+            text-decoration: none;
+            font-family: COMIC SANS MS, sans-serif;
+        }
+
+        .active {
+            font-weight: 600;
+        }
+    }
+}
